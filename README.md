@@ -1,4 +1,4 @@
-![Notes-App](https://socialify.git.ci/Tejas1510/FTS-Quiz-App/image?description=1&language=1&owner=1&theme=Dark)
+![Notes-App-FTS](https://socialify.git.ci/Tejas1510/FTS-Quiz-App/image?description=1&language=1&owner=1&stargazers=1&theme=Dark)
 
 ## Demonstration
 
